@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://expo.dev/artifacts/eas/3pQ6rTuYAhTBYDsmTHLYqe.apk",
-  "force": false,
-  "changelog": "New features added"
+  "version": "1.0.2",
+  "apkUrl": "https://expo.dev/artifacts/eas/jzHawyn8EQHQdYPxhwi9H5.apk",
+  "force": true,
+  "changelog": "Notification system"
 }
