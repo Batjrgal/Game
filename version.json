@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://expo.dev/artifacts/eas/jzHawyn8EQHQdYPxhwi9H5.apk",
+  "version": "1.0.3",
+  "apkUrl": "https://expo.dev/artifacts/eas/uETjVBRh2k5eeZETqLeGx8.apk",
   "force": true,
-  "changelog": "Notification system"
+  "changelog": "New game added."
 }
